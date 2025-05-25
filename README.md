@@ -6,7 +6,7 @@
 
 ## 🚀 Fitur Utama
 
-* 🔔 **Deteksi Bel Otomatis** – Sistem mendeteksi saat bel ditekan dan langsung mengirimkan sinyal ke gelang.
+* 🔔 **Deteksi Bel Otomatis** – Saat bel ditekan dan langsung mengirimkan sinyal ke gelang.
 * 📳 **Getaran Notifikasi** – Gelang memberikan getaran sebagai respons terhadap sinyal dari bel.
 * 📡 **Koneksi Nirkabel & Real-time** – Komunikasi cepat dan stabil antara bel dan gelang.
 * 🔋 **Efisien dan Hemat Daya** – Desain hemat energi agar baterai tahan lebih lama.
